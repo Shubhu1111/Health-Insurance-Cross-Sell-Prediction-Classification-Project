@@ -12,9 +12,6 @@ Multiple ML models are used to handle the categorization task. Logistic Regressi
 The Random Forest Classifier is determined to be the most efficient classifier after a thorough analysis. It gives thorough evaluation metrics and has outstanding accuracy. The insurance provider can find potential clients who are more likely to be interested in vehicle insurance by using the model's predictions. As a result, this marketing effort optimisation improves customer acquisition and retention methods.
 <img width="450" alt="image" src="https://github.com/Shubhu1111/Health-Insurance-Cross-Sell-Prediction-Classification-Project/assets/125637046/188b052b-c596-49cb-9d75-8e10603be50a">
 
-## Usage
-Make sure the dataset file "TRAIN-HEALTH INSURANCE CROSS SELL PREDICTION.csv" is present in the specified place in order to start this project. Run the programme in a Python environment with the required libraries. The primary script's execution speeds up model training, data preprocessing, and prediction creation. The Jupyter Notebook files that are included with the code contain comprehensive instructions and explanations.
-
 ## Contributors
 - Shubham Singh
 
