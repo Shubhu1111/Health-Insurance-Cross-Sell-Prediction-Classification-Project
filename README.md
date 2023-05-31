@@ -17,7 +17,7 @@ The Random Forest Classifier is determined to be the most efficient classifier a
 
 ## Conclusion
 The Health Insurance Cross Sell Prediction project offers valuable insights into customer behavior and preferences regarding Vehicle Insurance. By implementing the predictive model, businesses can make informed decisions, optimize marketing strategies, and foster growth. The contributions made to this project have been instrumental in its development and execution.
-<img width="882" alt="image" src="https://github.com/Shubhu1111/Health-Insurance-Cross-Sell-Prediction-Classification-Project/assets/125637046/6db62d11-c6cf-4018-8062-e9857999c1bf">
+![image](https://github.com/Shubhu1111/Health-Insurance-Cross-Sell-Prediction-Classification-Project/assets/125637046/cf60f16a-3d19-41a1-a264-9caa5a72d910)
 <img width="590" alt="image" src="https://github.com/Shubhu1111/Health-Insurance-Cross-Sell-Prediction-Classification-Project/assets/125637046/0b34aed9-9f13-4077-8a39-686b41fe1913">
 <img width="873" alt="image" src="https://github.com/Shubhu1111/Health-Insurance-Cross-Sell-Prediction-Classification-Project/assets/125637046/ec2a816c-8300-4beb-a906-089688dc302d">
 
